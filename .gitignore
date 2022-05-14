@@ -1,0 +1,5 @@
+# excluimos la carpeta
+node_modules
+
+# excluimos los archivos terminados en .md
+*md
